@@ -5,3 +5,11 @@ Symlinc or just drop plugin.py inside ~/.config/hexchat/addons and it'll load
 on startup automatically.
 
 Released into the public domain.
+
+Usage:
+
+/np -> display current playing song
+
+/np_set_massge <message> -> set or unsets the message
+
+/np_set_format <format> -> set or unsets the format used when getting information from rhythmbox
